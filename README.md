@@ -80,6 +80,4 @@ We inferred and made the the following decisions on the basis of our prelimianar
 
 ## Hackathon Results
 We achieved the `3rd` Rank in the Hackathon.
-<br> [GreenProphets - EcoForecast: Revolutionizing Green Energy Surplus Prediction in Europe - Report](https://github.com/Ashish-Soni08/SE-Europe-Data_Challenge/blob/main/GreenProphets%20-%20EcoForecast_%20Revolutionizing%20Green%20Energy%20Surplus%20Prediction%20in%20Europe%20-%20Report.pdf)
-
-
+<br> [GreenProphets - EcoForecast: Revolutionizing Green Energy Surplus Prediction in Europe - Report]
